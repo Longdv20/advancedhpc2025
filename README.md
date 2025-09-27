@@ -1,5 +1,5 @@
 USTH ICT Advanced HPC 2025
 =================================
 
-* Student name
-* Student id here if you're Dat
+* Do Viet Long
+* I'm not Dat but my student ID is 2440037
